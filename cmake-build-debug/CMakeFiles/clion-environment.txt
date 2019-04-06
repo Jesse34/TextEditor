@@ -1,0 +1,4 @@
+ToolSet: 3.0.5 (local)@D:\cygwin64
+Options: msvc.platform=store
+
+Options:

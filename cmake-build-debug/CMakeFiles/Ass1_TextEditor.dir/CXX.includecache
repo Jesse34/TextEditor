@@ -1,0 +1,60 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/Jesse/Desktop/CppAssignments - Semester 2/Ass1-TextEditor/Controller.cpp
+Controller.h
+/cygdrive/c/Users/Jesse/Desktop/CppAssignments - Semester 2/Ass1-TextEditor/Controller.h
+stdafx.h
+/cygdrive/c/Users/Jesse/Desktop/CppAssignments - Semester 2/Ass1-TextEditor/stdafx.h
+
+/cygdrive/c/Users/Jesse/Desktop/CppAssignments - Semester 2/Ass1-TextEditor/Controller.h
+LinkedList.h
+/cygdrive/c/Users/Jesse/Desktop/CppAssignments - Semester 2/Ass1-TextEditor/LinkedList.h
+stdafx.h
+/cygdrive/c/Users/Jesse/Desktop/CppAssignments - Semester 2/Ass1-TextEditor/stdafx.h
+
+/cygdrive/c/Users/Jesse/Desktop/CppAssignments - Semester 2/Ass1-TextEditor/LinkedList.cpp
+LinkedList.h
+/cygdrive/c/Users/Jesse/Desktop/CppAssignments - Semester 2/Ass1-TextEditor/LinkedList.h
+iostream
+-
+
+/cygdrive/c/Users/Jesse/Desktop/CppAssignments - Semester 2/Ass1-TextEditor/LinkedList.h
+Node.h
+/cygdrive/c/Users/Jesse/Desktop/CppAssignments - Semester 2/Ass1-TextEditor/Node.h
+
+/cygdrive/c/Users/Jesse/Desktop/CppAssignments - Semester 2/Ass1-TextEditor/Node.cpp
+Node.h
+/cygdrive/c/Users/Jesse/Desktop/CppAssignments - Semester 2/Ass1-TextEditor/Node.h
+
+/cygdrive/c/Users/Jesse/Desktop/CppAssignments - Semester 2/Ass1-TextEditor/Node.h
+string
+-
+
+/cygdrive/c/Users/Jesse/Desktop/CppAssignments - Semester 2/Ass1-TextEditor/main.cpp
+stdafx.h
+/cygdrive/c/Users/Jesse/Desktop/CppAssignments - Semester 2/Ass1-TextEditor/stdafx.h
+Controller.h
+/cygdrive/c/Users/Jesse/Desktop/CppAssignments - Semester 2/Ass1-TextEditor/Controller.h
+
+/cygdrive/c/Users/Jesse/Desktop/CppAssignments - Semester 2/Ass1-TextEditor/stdafx.cpp
+stdafx.h
+/cygdrive/c/Users/Jesse/Desktop/CppAssignments - Semester 2/Ass1-TextEditor/stdafx.h
+
+/cygdrive/c/Users/Jesse/Desktop/CppAssignments - Semester 2/Ass1-TextEditor/stdafx.h
+fstream
+-
+stdio.h
+-
+regex
+-
+string
+-
+iostream
+-
+
